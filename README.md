@@ -7,6 +7,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 	- [Math libs](#math-libs)
 	- [JSON Manipulation](#json-manipulation)
 	- [XML Manipulation](#xml-manipulation)
+	- [Config File Manipulation (~INI file)](#ini-manipulation)
 	- [Date and time manipulation](#date-and-time-manipulation)
 	- [Testing](#testing)
 	- [Encoding-Decoding](#encoding-decoding)
@@ -62,6 +63,11 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 * [fox](https://github.com/andreww/fox) - Fortran XML library
 * [xml-fortran](https://sourceforge.net/projects/xml-fortran/) - an all-Fortran solution for reading and writing XML files.
+
+## Config File Manipulation 
+*Libraries for INI file manipulation with Fortran language.*
+
+* [config_fortran](https://github.com/jannisteunissen/config_fortran) - a file parser for configuration files (similar to ini files).
 
 ## Date and time manipulation
 *Libraries for date and time manipulation with Fortran language.*
